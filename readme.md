@@ -1,5 +1,12 @@
 Brief Documentation:
-    The project uses Spotify API to get working.
+
+    Features:
+    1. Login Authentication with Spotify.
+    2. Play Songs.
+    3. Like songs to add them to "Liked" category.
+    4. Play Songs for as long as you want without caring for session expiry.
+    
+    -Spotify API is being used to fetch the songs.
 
     In order to successfully run the project-
         1. Create a new app on Spotify Develop's Account.
